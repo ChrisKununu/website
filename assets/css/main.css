@@ -1664,5 +1664,6 @@ input, select, textarea {
 	.image.main img {
 		width: 100%;
 		height: auto;
+		max-height: 400px;  /* typische Höhe für Querformat */
 		object-fit: cover;
 		}
